@@ -19,7 +19,7 @@ Search and Filters: Easily search and filter products based on categories, price
 - Database: MySQL
 - Payment Gateway: RazorPay
 
-## For clone the repository:
+## For clone the repository
 
    ```bash
    git clone https://github.com/yasheshpatel4/ShopEase.git
